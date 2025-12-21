@@ -6,6 +6,7 @@ Simple collection of reproducible data analysis notebooks and interactive dashbo
 1. Clone:
 ```bash
 git clone https://github.com/mo-chabane-tech/Data-Notebooks-And-Dashboards.git
+git lfs pull
 cd Data-Notebooks-And-Dashboards
 ```
 
@@ -16,12 +17,8 @@ python -m venv .venv
 pip install -r requirements.txt
 ```
 
-3. Follow README.md of each folder:
-Each folder has a README.md containing link of kaggle page where the data can be downloaded from.
-
 ## Repo layout (short)
-- folder_1/ — Cotains notebook, README.md, Power BI dashboard and .png of the dashboard
-- folder_2/
+- folder_1/ — Contains notebook, README.md, data.csv and Power BI dashboard
 - ...
 - ...
 - folder_n/
