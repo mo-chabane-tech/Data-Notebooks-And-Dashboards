@@ -17,11 +17,17 @@ python -m venv .venv
 pip install -r requirements.txt
 ```
 
-## Repo layout (short)
-- folder_1/ — Contains notebook, README.md, data.csv and Power BI dashboard
-- ...
-- ...
-- folder_n/
-- .gitignore
-- README.md
-- requirements.txt
+## Repo layout
+```
+/
+├─ .gitattributes
+├─ .gitignore
+├─ README.md
+├─ project-1-name/
+│  ├─ Notebook.ipynb
+│  ├─ data.csv         <- tracked with git lfs
+│  ├─ dashboard.pbix   <- tracked with git lfs
+│  ├─ dashboard-preview.png    <- tracked with git lfs
+│  └─ README.md
+└─ project-2-name/
+```
