@@ -1,19 +1,21 @@
 # Data Notebooks And Dashboards
-
 Simple collection of reproducible data analysis notebooks and interactive dashboards.
+
+## Python version
+Python 3.8 or higher is required.
 
 ## Quick start (2 steps)
 1. Clone:
 ```bash
-git clone https://github.com/mo-chabane-tech/Data-Notebooks-And-Dashboards.git
+git clone "https://github.com/mo-chabane-tech/Data-Notebooks-And-Dashboards.git"
 git lfs pull
 cd Data-Notebooks-And-Dashboards
 ```
 
 2. Install (recommended: virtual env):
 ```bash
-python -m venv .venv
-.venv\Scripts\activate
+python3.8 -m venv .venv # or 'python -m venv .venv' if python points to 3.8 or higher
+.venv\Scripts\activate # use '. .venv/bin/activate' on macOS/Linux
 pip install -r requirements.txt
 ```
 
