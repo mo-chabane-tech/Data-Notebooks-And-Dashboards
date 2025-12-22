@@ -30,6 +30,7 @@ pip install -r requirements.txt
 │  ├─ data.csv         <- tracked with git lfs
 │  ├─ dashboard.pbix   <- tracked with git lfs
 │  ├─ dashboard-preview.png    <- tracked with git lfs
+│  ├─ dashboard-preview.pdf    <- tracked with git lfs
 │  └─ README.md
 └─ project-2-name/
 ```
