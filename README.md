@@ -1,7 +1,7 @@
 # Data Notebooks And Dashboards
 Simple collection of reproducible data analysis notebooks and interactive dashboards.
 
-![Static Badge](https://img.shields.io/badge/v3.8+-blue?logo=python&label=Python&labelColor=green) ![Static Badge](https://img.shields.io/badge/2-red?logo=github&label=Projects) ![Static Badge](https://img.shields.io/badge/apache%202.0-black?label=License)
+![Static Badge](https://img.shields.io/badge/v3.8+-blue?logo=python&label=Python&labelColor=green) ![Static Badge](https://img.shields.io/badge/3-red?logo=github&label=Projects) ![Static Badge](https://img.shields.io/badge/apache%202.0-black?label=License)
 
 ## Python version
 Python 3.8 or higher is required.
