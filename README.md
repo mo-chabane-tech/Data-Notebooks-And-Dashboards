@@ -1,12 +1,12 @@
-# Data Notebooks And Dashboards
-Simple collection of reproducible data analysis notebooks and interactive dashboards.
+# Introduction
+This repo is my portfolio in data analysis, I gather data from different sources ( mostly kaggle ) and try to study them in a Jupyter notebook before I save the clean data to make an interactive dashboard in Power Bi.
 
 ![Static Badge](https://img.shields.io/badge/v3.8+-blue?logo=python&label=Python&labelColor=green) ![Static Badge](https://img.shields.io/badge/3-red?logo=github&label=Projects) ![Static Badge](https://img.shields.io/badge/apache%202.0-black?label=License)
 
-## Python version
+# Python version
 Python 3.8 or higher is required.
 
-## Quick start (2 steps)
+# Quick start (2 steps)
 1. Clone:
 ```bash
 git clone "https://github.com/mo-chabane-tech/Data-Notebooks-And-Dashboards.git"
@@ -21,7 +21,7 @@ python3.8 -m venv .venv # or 'python -m venv .venv' if python points to 3.8 or h
 pip install -r requirements.txt
 ```
 
-## Repo layout
+# Repo layout
 ```
 /
 ├─ .gitattributes
