@@ -1,5 +1,5 @@
 # Introduction
-This repo is my portfolio in data analysis, I gather data from different sources ( mostly kaggle ) and try to study them in a Jupyter notebook before I save the clean data to make an interactive dashboard in Power Bi.
+This repository contains my data-analysis projects: I collect datasets (mostly from Kaggle), clean and explore them in Jupyter notebooks, and publish the cleaned data as interactive Power BI dashboards.
 
 ![Static Badge](https://img.shields.io/badge/v3.8+-blue?logo=python&label=Python&labelColor=green) ![Static Badge](https://img.shields.io/badge/3-red?logo=github&label=Projects) ![Static Badge](https://img.shields.io/badge/apache%202.0-black?label=License)
 
